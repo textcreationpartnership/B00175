@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fire from heauen. Burning the body of one Iohn Hittchell of Holne-hurst, within the parish of Christ-church, in the county of South-hampton the 26. of Iune last 1613. who by the same was consumed to ashes, and no fire seene, lying therein smoaking and smothering three dayes and three nights, not to bequenched [sic] by water, nor the help of mans hand. VVith the lamentable burning of his house and one childe, and the grieuous scorching of his wife: with the birth of a monster, and many other strange things hapning about the same time: the like was neuer seene nor heard of. / Written by Iohn Hilliard Preacher of the word of life in Sopley. Reade and tremble. With the fearefull burning of the towne of Dorchester vpon friday the 6 of August last 1613.</title>
+            <author>Hilliard, John</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1613</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00175</idno>
+            <idno type="STC">STC 13507.3</idno>
+            <idno type="STC">ESTC S116587</idno>
+            <idno type="EEBO-CITATION">52633292</idno>
+            <idno type="OCLC">ocm 52633292</idno>
+            <idno type="VID">174716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2120:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fire from heauen. Burning the body of one Iohn Hittchell of Holne-hurst, within the parish of Christ-church, in the county of South-hampton the 26. of Iune last 1613. who by the same was consumed to ashes, and no fire seene, lying therein smoaking and smothering three dayes and three nights, not to bequenched [sic] by water, nor the help of mans hand. VVith the lamentable burning of his house and one childe, and the grieuous scorching of his wife: with the birth of a monster, and many other strange things hapning about the same time: the like was neuer seene nor heard of. / Written by Iohn Hilliard Preacher of the word of life in Sopley. Reade and tremble. With the fearefull burning of the towne of Dorchester vpon friday the 6 of August last 1613.</title>
+                  <author>Hilliard, John</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Iohn Trundle, and are to be sold at his shop in Barby can [sic] at the signe of Nobody.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initials, head-pieces, tailpieces.</note>
+                  <note>Dedication in this ed.: To the vvorshipfull his very louing cosen Mr. Nicholas Hillyard, his Maiesties seruant in ordinary.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Imperfect: stained, B₂₋₃ lacking; B₂₋₃ from British Library copy filmed at end.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hittchell, John, d. 1613.</term>
+               <term>Electrical injuries --  England --  Early works to 1800.</term>
+               <term>Fires --  England --  Dorchester (Dorset) --  Early works to 1800.</term>
+               <term>Abnormalities, Human --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174716:1"/>
+            <pb facs="tcp:174716:2" rendition="simple:additions"/>
+            <pb facs="tcp:174716:2" rendition="simple:additions"/>
+            <pb facs="tcp:174716:3"/>
+            <pb facs="tcp:174716:3" rendition="simple:additions"/>
+            <pb facs="tcp:174716:4" rendition="simple:additions"/>
+            <pb facs="tcp:174716:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:5" rendition="simple:additions"/>
+            <p>Fire from Heauen.</p>
+            <p>Burning the body of one <hi>Iohn Hittchell</hi> of Holne-hurſt, within the pariſh of Chriſt-church, in the County of South-hampton the 26. of Iune laſt 1613. who by the ſame was conſumed to aſhes, and no fire ſeene, lying there<g ref="char:EOLhyphen"/>in ſmoaking and ſmothering three dayes and three nights; not to bequenched by water, nor the help of mans hand.</p>
+            <p>VVith the lamentable burning of his houſe and one childe, and the grieuous ſcorching of his wife: with the birth of a Monſter, and many other ſtrange things hapning about the ſame time: the like was neuer ſeene nor heard of.</p>
+            <p>Written by <hi>Iohn H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lliard</hi> Preacher of the word of life in Sopley.</p>
+            <q>Reade and tremble.</q>
+            <p>With the fearefull burning of the towne of Dorcheſter vpon friday the 6. of Auguſt laſt 1613.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed at London for <hi>Iohn Trundle,</hi> and are to be ſold at his ſhop in Barby can at the ſigne of Nobody. 1613.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:174716:6"/>
+            <pb facs="tcp:174716:6"/>
+            <head>
+               <hi>To</hi> The VVorſhipfull his very louing Coſen Mr. <hi>Nicholas Hillyard,</hi> his Maieſties ſeruant in ordinary. <hi>Io: H.</hi> wiſhes all the graces of this life, and the glory of the life to come.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">V</seg>VOrſhipfull and worthy Coſen,</salute>
+            </opener>
+            <p>my end in publiſhing this Pamphlet, is not po<g ref="char:EOLhyphen"/>pular oſtentation: for you well know, it becommeth neither the ſeaſon, nor the ſubiect: The only purpoſe I haue, is to rouſe vp the ſloathfull careleſſe, and inſtruct the fil<g ref="char:EOLhyphen"/>thy forgetfull, to behold the wonderfull workes of the Lord, and thereby to grow more thankefull for his great mercy, in ſparing them: And to the end that we may all in true humility, imbrace theſe mercifull warnings of our gracious God, and ſpeedily appeale to the Throne of mercy, preparing our ſelues to meet the Bridegroome of our ſoules, who commeth in maieſtie to iudge both quick and dead. <hi>For we muſt all appeare before the Iudgement Seat of Chriſt,</hi>
+               <note place="margin">2. Cor. 5.10.</note> 
+               <hi>that euery man may receaue the things which are done in his bo<g ref="char:EOLhyphen"/>dy, according to that he hath done, whether it be good or euill.</hi>
+            </p>
+            <p>For the plaineneſſe and rudenes of my ſtyle, if you duly conſider the manner of my writing: I truſt you
+<pb facs="tcp:174716:7"/> will acknowledge that the power of the ſpirit is beſt ſeene in weaknes, and that plaine lines doe beſt an<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere a ſtraight leuell: the euidence of the ſpirit is beſt ſeene in plainenes: Wherefore if our Goſpell be hid, it is hid in them that periſh. But I perſwade my ſelfe better things of you, euen ſuch as accom<g ref="char:EOLhyphen"/>panie ſaluation. Yf you accept of theſe my paines according to mine intent you ſhall happily eaſe your ſelfe of the Mother and the Daughters forgetfull<g ref="char:EOLhyphen"/>neſſe, and vnthankfulnes, and burthen me willingly with greater labor, for the further building you vp in Chriſt Ieſus. To whoſe pro<g ref="char:EOLhyphen"/>tection I commit you.</p>
+            <closer>
+               <dateline>Chriſt-church <date>this 10. of Iuly. 1613.</date>
+               </dateline> 
+               <signed>Your louing kinſ-man, <hi>Iohn Hilliard.</hi>
+               </signed>
+            </closer>
+            <trailer type="illustration">
+               <figure/>
+            </trailer>
+         </div>
+      </front>
+      <body>
+         <div type="exhortation_to_repentance">
+            <pb facs="tcp:174716:7"/>
+            <head>Fier from Heauen: or <hi>A</hi> TRVMPET SOVN<g ref="char:EOLhyphen"/>DING TO IVDGE<g ref="char:EOLhyphen"/>MENT, CALLING VS TO RE<g ref="char:EOLhyphen"/>PENTANCE, BY THE FEAREFVL and lamentable burning of <hi>Iohn Hitchell,</hi> carpenter to aſhes: together with his houſe and one child, and the grieuous ſcorching of his wife by lightning, as alſo by the burning of another houſe ſithence, and the birth of a Monſter. All within the Towne and Pariſh of Chriſt-church in <hi>Hampſhire.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T was the ſaying of <hi>Cambiſes,</hi> that Citties would flouriſh well in proſperity, if the Inha<g ref="char:EOLhyphen"/>bitants were watchefull, and ſtill imagined their enemies to be at hand. That which he ſaid for the proſperous eſtate of a common<g ref="char:EOLhyphen"/>weale, our Sauiour ſaid for the happy ſucceſſe of all Chriſti<g ref="char:EOLhyphen"/>ans. And both tend to ſhew that whether we reſpect the ſaftie of our bodies here on earth, or the ſaluation of our ſoules in the kingdome of Chriſt, we may not be in our cal<g ref="char:EOLhyphen"/>lings either idle, careleſſe, or ſecure. But yet ſuch is our na<g ref="char:EOLhyphen"/>ture, we rather reſpect the words of <hi>Cambiſes,</hi> for temporall proſperity, then the warning of Chriſt, for eternall felicity. Whereby it comes to paſſe, that wee haue commonly fayrs bodies, but ſoule ſoules: much goods, but little goodneſſe:
+<pb facs="tcp:174716:8"/> ſeeming glorious in the ſight of men outwardly, but odious inwardly in the ſight of God. According to that of the <hi>Pſal<g ref="char:EOLhyphen"/>miſt.</hi>
+               <note place="margin">Pſal. 10.6.</note> 
+               <hi>The vngodly hath ſaid in his heart, tuſh, I ſhal neuer be caſt downe, there ſhall no euill happen vnto me.</hi> But the fay<g ref="char:EOLhyphen"/>reſt Oke is ſooneſt cut downe: the fatteſt Oxe is readieſt for the ſlaughter, <hi>and the felicity of fooles, is their owne diſtru<g ref="char:EOLhyphen"/>ction.<note place="margin">Pro. 1. Pſal. 73.</note> For how ſoone doe they conſume, periſh, and come to fearefull ende? Yea euen as a dreame are they when one awaketh.</hi>
+               <note place="margin">Annos 6.8.9,</note> Though <hi>the Lord hath ſworne by himſelfe that he doth abhor the excellency of <hi>Iacob,</hi> and hate his Pallaces,</hi> and therefore <hi>will deliuer vp the Citty, with all that is therein, and if there remaine ten men in one houſe, they ſhall all dye.</hi> Yet ſtill ſuch is our ſecurity that we ſay with the vnthriftie ſer<g ref="char:EOLhyphen"/>uant <hi>tardat Dominus Venire: <hi>Our Lord doth deferre his com<g ref="char:EOLhyphen"/>ming,</hi>
+               </hi> thinking we may repent when we pleaſe, and that we ſhall haue leaſure inough, not remembring with our ſelues, <hi>That like as God is mercifull,</hi>
+               <note place="margin">Eccl, 5.6.</note> 
+               <hi>ſo goeth wrath from him alſo, and his indignation cometh downe vpon ſinners.</hi> Therefore <hi>let vs make no tarrying to turne to the Lord, and not put of from day to day, for ſodainely doth his wrath come, and in the time of vengeance he will diſtroy vs. <hi>Semper vigilemus bené viuendo, ne nouiſſimus dies cuiuſque noſtrum inueniat nos impa<g ref="char:EOLhyphen"/>ratos.</hi> Let vs watch and wayte for his comming in honeſt conuerſation of life, that the latter day of euery one of vs find vs not vnprepared. For he is not ſlacke, as they count ſlacke<g ref="char:EOLhyphen"/>neſſe,</hi>
+               <note place="margin">2. Pet. 3.9.</note> 
+               <hi>but he is patient to vs-ward, becauſe he would haue mercy of all and none to periſh.</hi> There is not one among vs ſo iuſt as <hi>Iacob</hi> was, nor ſcarce one on whome the Lord will pronounce the like ſentence, ſo lamentable is our time, and ſo deteſtable our iniquities. Our eyes haue beheld ſuch ſignes as <hi>Ieruſalem</hi> did: but we eſteeme them as fantaſies, deſ<g ref="char:EOLhyphen"/>canting whence they come, but not remembring wherefore they were ſent. Our eares haue heard many <hi>Ionaſſes,</hi> threat<g ref="char:EOLhyphen"/>ning death, diſtruction, and damnation to <hi>Niniui,</hi> crying ouer vs with teares for our abhomination, yet wee rather deſire ſilkes then ſackecloth: and when wée ſhould repent, wée ſtudy to increaſe our pride. We haue them which cry daylie with the <hi>prophet <hi>Eſay</hi> woe is me,</hi>
+               <note place="margin">Eſay 16.</note> 
+               <hi>woe is me, the tranſgreſſors greeuou<g ref="char:EOLhyphen"/>ſly
+<pb facs="tcp:174716:8"/> haue offended, threatning that feare, the Pit, and the ſnare, is vpon the inhabiters of the earth, he that flyeth from the noiſe of the feare, ſhall fall into the Pit: and he that com<g ref="char:EOLhyphen"/>meth out of the Pit, ſhalbe taken in the ſnare, for the win<g ref="char:EOLhyphen"/>dowes of Heauen are open, and the foundations of the earth doe ſhake &amp;c.</hi> Can we reade this of our ſelues? can wée learne this of others? can we ſee the daily proofe of theſe Pro<g ref="char:EOLhyphen"/>pheſies come to effect: and dare we continew ſtill rocked in the cradell of Security? like Epicures caring for nought but the belly? O monſtrous time full of deformity! O reprobate people deleting in impiety, and more bruitiſh then beaſts for<g ref="char:EOLhyphen"/>getting their duty: elſe how durſt the vſurer deuour the body and thirſt for the bloud of his brother, when he readeth how the rich man burned in Hell?<note place="margin">Luke 16.</note> How durſt the Adulterer per<g ref="char:EOLhyphen"/>ſiſt in his laſciuious enterpriſes, when he ſeeth the ſinne of <hi>Dauid</hi> ſo ſeuearely puniſhed, the inceſt of <hi>Lot</hi> ſo greeuouſly lamented, and the wiſedome of <hi>Salomon</hi> ſo foulely obſcured? How durſt the couetuous perſon heape vp riches for other, when he heares our Sauiour call him foole, that ſo pro<g ref="char:EOLhyphen"/>uided for his ſoule? How graceleſſely dare the Glutton maintaine his delicacie, when he remembers how <hi>Iobes</hi> children were flayne at their banquet? How dare the Ty<g ref="char:EOLhyphen"/>rant continue his crueltie, if he regard the reuenge of the rigorous debtor? How dare our worldlings continue their pride conſidering the fall of <hi>Lucifer?</hi> How dare the Idolater doe reuerence to Images, when he heareth the heauie curſe that the God of truth pronunceth againſt him? How dare we ſweare and forſweare our ſelues, when wée remember the wretched end of <hi>Nabal?</hi> How dare greedy Man to couet his neighbours houſe, when he thinketh how hungerly the dogges licked the bloud of King <hi>Ahab?</hi> How dare the moſt baſe ſwyniſh gormondizing drunkard, ſit all the day, and night, and weeke, ſwilling, ſing, and prophanely abuſing Gods Creatures, when he heareth the holy Ghoſt pro<g ref="char:EOLhyphen"/>nounce <hi>woe vnto them that riſe earely to be drunken?</hi> How dare all foule offenders but to tremble and quake, when they heare the fearefull noyſe of the Thunder, and ſee the dreadfull blaſts of is lightning to deſcend from the heauens,
+<pb facs="tcp:174716:9"/> and ſent from an angrie God as tokens of his fearefull in<g ref="char:EOLhyphen"/>dignation? In a word, how dareth euery obſtinate ſinner to delite and boaſte of his wickednes, when he knoweth that <hi>vpon the vngodly ſhall raine Snares,</hi>
+               <note place="margin">Pſal. 11.7.</note> 
+               <hi>Fier, and Brimſtone, &amp; ſtormy, tempeſt: this ſhall be their portion to drinke.</hi> But ſuch is our vngodlines, that what we ſhould doe, wée ſlide backe from, forgetting God, and calling vengeance vpon our ſelues, haling ſorrow vpon ſorrow, enuying thoſe that liue well and louing thoſe that hate goodnes. Who euer read of more Royaltie in a King, then we may iuſtly write of our learned, gracious and godly King <hi>Iames?</hi> whoſe bleſſed, peace<g ref="char:EOLhyphen"/>full, and happie raigne, the Lord for his mercie long continue ouer vs. What land had euermore plenty of all things then this Realme of <hi>England?</hi> and yet what country vnder the Sun may be compared with it for vnthankefulnes? Wée haue the light of the glorious Ghoſpell ſet vpon an hill, and yet too manie rather then they will ſee it, will ſit blind-fold in the valley of ignorance. Can any <hi>Cronicles</hi> make report of a more worthie, wiſe, vertuous, godly, &amp; religious Prince, then the late Prince <hi>Henry?</hi> in whome the worthines of all the eight <hi>Henries</hi> before him met as in their confluence: I may ſpeake of him as the Apoſtle ſpake of thoſe (with whome he is now in companie) <hi>The world was not worthy of him:</hi> And although our ſinnes no doubt were the cauſe why he was taken from vs, yet who is the more ſorrowfull? And where<g ref="char:EOLhyphen"/>as God (bleſſed be his name) hath left vnto vs not onely the Sunne and Moone of our firmament, but alſo <hi>Charles-wayne</hi> to remaine in one Horizon:<note place="margin">D. P.</note> A Prince, if Starres be of any truth, like to be of long life, and great learning, moſt hopefull for his time, moſt fruitfull for his hopes: ſo that I hope God hath ſaid to our <hi>Iacob,</hi> as <hi>Iacob</hi> ſaid to his <hi>Iudah. <hi>Sceptrum non auferetur a Iuda,</hi>
+               </hi> the Scepter ſhall not be taken from our <hi>Iacob</hi> till <hi>Shiloah</hi> come againe into the world: yet who I ſay is the more thankefull? Our gratious King hath made many good lawes to cutte of Malefactors, but ſome eſtéeme little of Gods ordinances, leſſe of his Maieſties au<g ref="char:EOLhyphen"/>thority, and leaſt of all of his decrees: for proofe whereof we haue ſeene (ſuch is our graceleſſnes) how wickedly ſome haue
+<pb facs="tcp:174716:9"/> growne to rebellion, whome the earth hath ſwallowed, as <hi>Corath, Dathan,</hi> and <hi>Abiram.</hi> Many haue conſpired the death both of his Maieſtie and his poſteritie, but the ſword hath, and I truſt euer ſhall cut them of before their wicked fruit come to diuelliſh ripenes. Yea, <hi>their owne tongues ſhall make them fall.</hi> And let vs beſeech the Lord of hoſts to looke downe alwayes vpon his anoynted, <hi>and to cloath his enimies with ſhame,</hi> but vpon him and his (good Lord) let his Crowne flouriſh vpon, till thou Crowne vs all in heauen.</p>
+            <p>Let vs learne by the conſuming of <hi>Sodom</hi> and <hi>Gomorrah,</hi> to flye from their ſinnes, and let vs leaue the wickednes of the old world, leaſt God deuiſe a worſe end for vs, let vs be warned by the ſinnes of <hi>Ieruſalem,</hi> to be armed with the word of truth, at the preaching of <hi>Ionas</hi> to <hi>Niniui,</hi> let the ignorant leaue to be obſtinate, and the learned ceaſe to be ſlothfull, and labour by all meanes to make the world know that the feare<g ref="char:EOLhyphen"/>full day of the Lords comming is at hand, exhorting therefore <hi>to watch, continuing in prayer.</hi> For aſſuredly this fearefull accident (I meane) the burning of this man and childe by fire from Heauen, ought not to be attributed to any naturall cauſe, but it is euen the Finger of God, threatning greater plagues to enſue, without our earneſt and hearty repentance. Neither may we thinke that this iudgement lighted vpon them for their owne proper ſinnes which might be greater then ours, but rather that our ſinnes are farre greater then were theirs, and God whoſe mercy is greater then all, hath ſent this for our example to call vs to repentance: wherefore let vs not thinke <hi>that thoſe one whome the Tower in Siloam fell, were greater ſinners then all thoſe that dwell in Ieruſa<g ref="char:EOLhyphen"/>lem,</hi> but rather let vs aſſure our ſelues, that <hi>vnleſſe we re<g ref="char:EOLhyphen"/>pent, we ſhall alſo periſh.</hi> And to ſpeake of the life and con<g ref="char:EOLhyphen"/>uerſation of the man. I cannot finde or by any meanes vn<g ref="char:EOLhyphen"/>derſtand, no not by reports of the neareſt or the worſt affected of his neighbours, but that he behaued himſelfe euery way in the iudgement of the world as an honeſt poore man, and a painefull laborer in his vocation. The manner of the acci<g ref="char:EOLhyphen"/>dent is as followeth: He hauing bene on <hi>Saterday</hi> the <hi>26.</hi>
+               <pb facs="tcp:174716:10"/> of <hi>Iune</hi> laſt, at worke at the houſe of one <hi>Iohn Deane</hi> of <hi>Parly-Court,</hi> where he truely and painefully labored at his trade being a <hi>Carpenter,</hi> and hauing ended his dayes-worke went home to his houſe as an honeſt man, to comfort his Familie with the money which he had painefully gotten, and went not (as too many Tradeſ-men vſe to doe) to be drunken and careleſſe of their poore houſholds at home, wherein he ſhew<g ref="char:EOLhyphen"/>ed and gaue teſtimony to the world, of a Religious care. And after his comming home, betooke himſelfe to his reſt, and being in bed with his wife and childe, in the deepe of the night, the lightning came on ſo fiercely, that an old woman named <hi>Agnes Ruſſell</hi> mother to the wife of the ſaid <hi>Iohn Hitchell</hi> hauing receaued a terrible blowe on her chéeke (by what meanes I knowe not) was therewith awakened and cryed to the ſaid <hi>Iohn Hitchell</hi> and his wife to helpe her, but they not anſwering, the poore old woman ſtart out of the bed and went vnto the bed where they lay, and awakened her daughter, who was vpon the ſodaine moſt lamentably burnt all one ſide of her, and her huſband and childe dead by her ſide: yet neuertheles, his poore wife when ſhee ſawe her huſband and childe had thus ſtrangely finiſhed their dayes, ſhee (as it ſeemeth) thought not ſo much of the hurt ſhe had receaued her ſelfe, as ſhee was carefull to haue preſerued the life of her huſband if by any meanes poſſibly ſhee could: and therefore (notwithſtanding all her grieuous wounds, ſhee dragd him out of the bed into the ſtreete, and there by reaſon of the vehemency of the fier, ſhee was inforced to her no ſmall greeſe to forſake him, where he lay burning vpon the ground for the ſpace of three dayes after or thereabouts, not that there was any appearance of Fyer outwardly to be ſéene on him, but only a kinde of ſmoake aſcending vpwards from the Carcas, vntill it was conſumed to aſhes, except only ſome ſmall ſhewe of parte of his bones which were caſt into a pitte made by the place. O fearefull iudgement! <hi>Hearken to this O ye that forget God, leaſt he teare you in peeces, and there be none to deliuer you.</hi>
+            </p>
+            <p>If this happened vnto a man of ſo vpright a conuerſation, who laboured painefully all day in a lawfull calling, O what
+<pb facs="tcp:174716:24"/> may befall you which fit day and night at the <hi>Tauerne,</hi> whoſe prophane mouthes are filled with impious oathes and filthie Ridawdrie, whoſe whole liues and conuerſations are no<g ref="char:EOLhyphen"/>thing els but ſinkes of impietie. What Chriſtian heart can chuſe but greeue to ſee the horrible wickednes, which not only before, but euery day ſithence this wofull ſpectacle, hath bene vſed in the very next adioyning-Towne where it happened. O you that beare office and haue the gouern<g ref="char:EOLhyphen"/>ment of the place, I beſeech you looke into your ſelues, that no filthie conuerſation ofts, may giue into you aragement to the meaner ſort, to commit the vgly ſinnes wherewith our gracious God is ſo highly offended. O remember remem<g ref="char:EOLhyphen"/>ber I ſay, the ſoule taynt wherewith <hi>Ieroboam</hi> is branded in the booke at God, namely, that his example made <hi>Iſrael</hi> to ſinne: your painfull <hi>Paſtor</hi> hath euen worne out as his dayes, ſo his ſtrength and body, in exhorting you to repen<g ref="char:EOLhyphen"/>tance, and perſwading you to flye <hi>from the Vengeance to come.</hi> I aſſure you it ſhall be eaſier for <hi>Sodom</hi> and <hi>Gomor<g ref="char:EOLhyphen"/>rah</hi> in the great day of the Lord, then for thoſe Townes, and perſons, which haue heard remiſſion of ſinnes preached in Ieſus, and yet haue not repented. For <hi>The ſeruant that knoweth his Maſters will &amp; doth it not ſhall be beaten with many ſtripes.</hi> If the reuerend, and childiſh feare of God can<g ref="char:EOLhyphen"/>not winne vs to eſchew euill and to the good, yet let the ſer<g ref="char:EOLhyphen"/>uile, and ſlauiſh feare of puniſhment, ſtay and make vs afraid to perſeuer in our euill, leaſt according to the righteouſnes of the ſame in our ſelues, at laſt we receaue double damnation in our bodyes. But to our purpoſe, if I ſay this hapned in a <hi>greene tree,</hi> what ſhall become of vs, that are drie and wi<g ref="char:EOLhyphen"/>thered: and ſith it lighted vpon ſome of vprighter conuerſa<g ref="char:EOLhyphen"/>tion then our ſelues, O what ſhall become of vs vile wretch<g ref="char:EOLhyphen"/>ed creatures, that delight in nothing but ſinne, and haue as it were ſold our ſelues to worke wickednes in the ſight of God? The Lord giue vs grace to iudge our ſelues, <hi>that we be not iudged of the Lord.</hi>
+            </p>
+            <p>Now let vs conſider the <hi>Time</hi> when this fearefull iudge<g ref="char:EOLhyphen"/>ment happened, ſurely about <hi>Mid-night.</hi> The like we may reade in the booke of <hi>Exodus</hi> where the Lord ſaith, <hi>at Mid<g ref="char:EOLhyphen"/>night
+<pb facs="tcp:174716:26"/> he will goe forth into the middeſt of Egypt, and all the firſt borne in the land of Egypt ſhall die.</hi>
+            </p>
+            <p>but that we may learne how as well in the <hi>Night</hi> as in the <hi>Day</hi> the Lord executeth both <hi>Iudgement</hi> and <hi>mercy: Iudge<g ref="char:EOLhyphen"/>ment</hi> as we ſee in <hi>Ioſhua</hi> his direction againſt <hi>Ai,</hi>
+               <note place="margin">Ioſhua 8.5.</note> whereby their fearfull ouerthrow followed: many thouſands of them being deuoured by the ſword, and their Citty conſumed with fyre: So when they ſlept, the wrath of God awaked and marched towards them ſpeedily. So againe the fiue Kings <hi>came vpon them ſodainly, and deſtroyed them with a great ſlaughter.</hi>
+            </p>
+            <p>
+               <hi>Thou foole, the Night ſhall they take away thy Soule, and</hi> in the <hi>Night</hi> God directed his ſeruant againſt them, <hi>Who then whoſe are all theſe? &amp;c.</hi> Other Kingdomes and Coun<g ref="char:EOLhyphen"/>tries about vs, what fearefull <hi>Night-cries</hi> they haue had when we ſlept in peace, wiſedome and thankfulnes ſhould conſider.</p>
+            <p>Then for mercies receaued, in like manner you ſee the Scriptures:<note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Reg. 3.5.</note> 
+               <hi>Solomon</hi> had that comfortable conference with God in the <hi>Night,</hi> wherein God granted him the thing he ſought for, <hi>appearing to him in a dreame. <hi>Daniel</hi>
+               </hi> in the <hi>Night</hi> found mercy with God,<note place="margin">Dan. 2.19. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts 18, 8.</note> to haue the Kingsdreame reuealed vnto him. <hi>Peter</hi> in the <hi>Night,</hi> was deliuered from danger: <hi>Paul</hi> and <hi>Silas</hi> in the <hi>Night</hi> ſinging Pſalmes, ſound the comfort there ſpoken of. So both <hi>Iudgement</hi> and <hi>Mercy</hi> wake and walke in the <hi>Night.</hi> The vſe whereof, vnto vs ſhould be euer to ſtir vs vp, both to goe to bed as wée ought, and to vſe the <hi>night</hi> as the godly haue done: For the firſt, we may take <hi>Dauids</hi> example. <hi>I will lay me downe and take my reſt, for it is thou Lord only that makeſt me dwell in ſafetie.</hi>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſalme 4.8.</note> and for the ſecond, he alſo in many Pſalmes may inſtruct vs, for <hi>euery night</hi> ſaith he, <hi>waſh I my bed, and wa<g ref="char:EOLhyphen"/>ter my couch with teares:</hi>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alme 6 6.</note> which <hi>Dauid</hi> did not for any pu<g ref="char:EOLhyphen"/>ſillanimitie, or weakenes: (for we knowe he was a man of a valiant courage) but only out of a ſweete feeling that he had in his night Meditation, of the great goodnes of God towards him many wayes, and his owns to great inability to doe to him againe for the ſame, as he deſired. And what
+<pb facs="tcp:174716:26"/> better time can we take to plow vp the fallow ground of our hearts before him, and to conſider his fauors and our faultes, opening euen all our woes and griefes vnto him? that as the night naturally, is moyſt and ſhewry more then the day, ſo we likewiſe, may raine downe abundance of teares, pray<g ref="char:EOLhyphen"/>ing for our ſinnes, and thanking him for his goodnes, know<g ref="char:EOLhyphen"/>ing it is a moſt aſſured truth, that no dewe of the night can ſo glad the earth, as this ſweete moyſture of thy wet eye in theſe reſpects doth pleaſe thy God.<note place="margin">Pſal. 119.62.</note> 
+               <hi>At Midnight</hi> ſaith <hi>Dauid <hi>will I riſe to giue thankes to thee, becauſe of thy righteous iudgements: In the night I commune with mine own heart,</hi>
+               </hi>
+               <note place="margin">Pſalme 77.6.</note> 
+               <hi>&amp; ſerch out my ſpirits.</hi> Therfore I ſay again, ſith mercy <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> iudge<g ref="char:EOLhyphen"/>ment thus ſtir in the <hi>night,</hi> the one for Gods children, y<hi rend="sup">e</hi> other for his enemies, <hi>awake thou that ſleepeſt</hi> in moſt dull ſecu<g ref="char:EOLhyphen"/>rity, going to the bed as the dogge to his kennell, without any thought either of God, or Diuell. Full little doſt thou know what may happen to thee before it be day. It may be with thee, as with the firſt borne of Egypt, with the fiue Kings, with the Citty <hi>Ai,</hi> with this poore (though now rich) man and his Child, thy ſelfe may be dead as he is, thy houſe on fier as his was, thy goods ſpoyled and Children de<g ref="char:EOLhyphen"/>ſtroyed as his were, and as many wofull miſeries vpon thy wife and friends as there are vpon his. Wherefore goe to bed with prayer, awake with prayer, and riſe with prayer. Let God and grace be in thy firſt thoughts, and not malyce and wrath, not Shéepe and Oxen, not mony and mucke, which all periſh with thée when God is angrie. We ſee what hath happened before our eyes, God giue vs all grace to bée warned. What, ſhal we now be vnmindefull of theſe things? vnthankefull to God and vnfaithfull to our owne ſoules? ſhall we continue in lyes, luſts, oathes, aſpiring proiects, or malitious trappes? No, we will make and obſerue this vow, <hi>We will not ſuffer our eyes to ſleepe, nor our eielids to ſlum<g ref="char:EOLhyphen"/>ber,</hi> we will neither continue our tongue to betray our bro<g ref="char:EOLhyphen"/>ther, nor our bodies to betray our ſoules: we will endeuour to leade a iuſt, and holy, and ſober life, this we deſire, for this we hunger and thirſt, this we vowe, for this we pray the Lord heare and graunt vs this petition.</p>
+            <pb facs="tcp:174716:28"/>
+            <p>
+               <note place="margin">Eze. 9.4.</note>O then let vs mourne and weepe for our offences and for <hi>all the abhominations, ſo ſhall we be marked in the foreheads</hi> to be preſerued from the euill to come, nay, <hi>ſo ſhall wee be bleſſed,</hi> for ſo the mouth of truth hath pronounced, <hi>we ſhalbe comforted.</hi>
+               <note place="margin">Mat. 7.</note> Our ſinnes are the vnfruitfull thornes that choake the good ſeede of vertue and grace, the corrupters of Iudgement, the ſeducers of will, the betrayers of vertue, the flatterers of vice, the vnderminers of courage, ſlaues to weakenes, infection of youth, madnes of age, the curſe of life, and the reproach of death: the leaſt of our boſome-ſinnes is fier in the hand, and a Serpent in the heart, <hi>a Cancer, a Spider,</hi>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa. 3.</note> 
+               <hi>an euill Spirit,</hi> and the fruite thereof is death. O ye then that with thoſe <hi>Mincing dames in Ieruſalem,</hi> are loath that the ſoles of your feete ſhould treade vpon the earth, ye may be hurryed betweene Heauen and Earth, but neuer willbe carried as <hi>Elias,</hi> vnleſſe in a <hi>fiery-Chariot.</hi> Ye that ſet more by <hi>Agar</hi> then <hi>Sara,</hi> more eſteeme your bodies then your ſoules, feare and tremble at the Lords Iudgements. O that blindenes of mans minde, and that madde doubting of Gods diuine promiſes of eternall life! O that hardened and flynty heart of ours, which is not moued, no not with theſe horrible threats of Gods heauie diſpleaſure, but conti<g ref="char:EOLhyphen"/>nuing ſecurely in all impiety, neuer asketh pardon for his willfull offending, and amendeth euen as though the Scrip<g ref="char:EOLhyphen"/>ture were but lyes, and the diuine Oracles prophane fables! For by thoſe things which haue come to paſſe, and by true demonſtration of Gods holy ſpirit, it is apparant that no<g ref="char:EOLhyphen"/>thing is more certaine, then that the end of all thinges han<g ref="char:EOLhyphen"/>geth on our ſhoulders. Truly great is the force of ſinne, and maruelous is the rage of Sathan in theſe latter dayes, who endeuoreth by all meanes that poſſibly he can, to bring the whole world into a deſperate ſecurity of li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, that ſo he may haue many partakers of his torments in Hell, from whence there is no redemption. But how much better had it bene for vs we had either neuer béene borne, or at the leaſt beene voide of reaſon with beaſt and Serpents, or béene diſ<g ref="char:EOLhyphen"/>patched ſo ſoone as we were horne, if either we <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not that place, for which we were created, or come not to the
+<pb facs="tcp:174716:10"/> celeſtiall <hi>Paradice,</hi> and to the marriage of our ſpouſe, our Lord and Sauiour Ieſus Chriſt, where ſhallbe the full abundance of all delights, and perfection of all pleaſure?</p>
+            <p>Wherefore let vs caſt from vs our careles ſecurity and miſtruſt of the promiſes of God: Let vs renounce the deuill, and all the workes of the fleſh, which are not ſufferable by the word of God, and let vs liſten to the freindly admonition of our Sauiour, Chriſt warning vs to be watchfull at all times,<note place="margin">Luke. 21. Mat. 25.</note> becauſe we know not the hower when our Lord will <hi>come praying that we may eſcape al theſe things which are to come, and may ſtand before the ſonne of man.</hi> For if the com<g ref="char:EOLhyphen"/>ming of Theiues and ſtealers of our earthlie goods be to be feared, with how great diligence and watchefulnes, ſhould we ſeeke to eſcape thoſe enemies, which would ſpoile vs of our eternall riches, and kingdome of Heauen? Here we vſe great heed and wiſedome to preſerue our mortall bodies from hurt and danger: but to ſaue our ſoules which are immortall from eternall paines in Hell, we are altogether careleſſe and nothing circumſpect.</p>
+            <p>And yet more would it beſeeme the children of light, to be more carefull in ſéeking and kéeping thoſe things which are Celeſtiall, then the worldlings are painefull in enriching themſelues with ſuch thinge as they are neither ſure to enioy while they are aliue, nor can aſſure them of any ioy when they are dead. Yea let vs think and perſwade our ſelues, that in the ſight of God it is not ſhamefull, but abhominable, that the elect or choſen people of God, which ſhould be wiſe and circumſpect, ſhall in this care be ſurpaſſed of wicked world<g ref="char:EOLhyphen"/>lings: and the more highly we diſpleaſe our God, by how much the things which we ſo little eſtéeme, are more excel<g ref="char:EOLhyphen"/>lent then that which they ſo hunt after, betweene which (ſo ſurpaſſing is the treaſure prepared for the godlie) there is no compariſon.</p>
+            <p>This erhortation though it pertaine to all men at all times, yet now ſpeciallie in theſe dangerous daies, in which we ſée ſo many by ſodaine and ſtrange death to be taken out of the world: and becauſe euery man ſhall die (though the certaine time none knoweth) and ſhall either woefullie be ſent
+<pb facs="tcp:174716:11"/> among the Diuels to Hell, or ioyfullie to be receaued into the fellowſhip of the faithfull in Heauen.</p>
+            <p>And to come a little nearer vnto our ſelues, hath not the Lord ſhaken once more, néere our Towne, his rod of Corre<g ref="char:EOLhyphen"/>ction ſithence this lamentable accident? namely by the bur<g ref="char:EOLhyphen"/>ning of one <hi>Edward Burtons</hi> houſe and all his ſubſtance whileſt they were in their beds? it is an old ſaying, that <hi>when our neighbours houſe is on fier, it is high time to looke to our owne.</hi> Gods Iudgements we ſee haue lighted on both ſides of vs alreadie, and ſhall wee be ſtill careleſſe? Moreouer it is not vnworthie the noting, that as on both ſides of the Towne theſe fearefull iudgements haue happened, ſo like<g ref="char:EOLhyphen"/>wiſe vpon the firſt day of <hi>May</hi> laſt within the Towne was borne a Monſter, which may well teach vs that although theſe things haue hapned without the Towne, yet the Monſters for whoſe vglie ſinnes ſake theſe iudgements haue come to paſſe (may ſeeme) to remaine within the Towne. God open our eyes that we may behold theſe things aright, and mollifie our hearts (good Lord) we beſeech thee that we may repent as we ought?</p>
+            <p>And although I will not particularize the vnaturall pro<g ref="char:EOLhyphen"/>portions of that Monſter, yet I obſerue that it wanted lippes, to teach vs (as I ſuppoſe) that we want ſanctified lippes to glorifie the powerfull name of our gratious God. Moreouer it wanted the place of euacuation, by meanes whereof the body could not be exonerate or clenſed of the excrements. To teach that whatſoeuer pretence or ſhew we make of Religion outwardly, yet the filth of ſin remaineth ſtill within becauſe there wanteth true Repentance in vs whereby our ſoules might be clenſed in the bloud of Ieſus Chriſt.</p>
+            <p>Truly I am perſwaded that in this Towne and the parts adioyning, where theſe Iudgements fell, there is as much ſinne raigning, as there is in a greater parte of the kingdome beſides: but I beſeech God of his infinite mercy, that his long ſuffering of our ſinnes be not an occaſion that we plucke his feirce wrath vpon our heads, which we daylie goe about, prouoking him to anger that will not be tempted, ſo vngrate<g ref="char:EOLhyphen"/>full are we, and ſo gratious is he. I doubt the ſame ſentence
+<pb facs="tcp:174716:11"/> wil be pronounced againſt vs, which our Sauiour vſed, ſaying <hi>Woe vnto <hi>Carazaine,</hi> woe vnto <hi>Bethſaida,</hi> it is better for <hi>Tire</hi> and <hi>Sidon</hi> then for them,</hi> at the dreadful day of the Lord.</p>
+            <p>A ſeueare ſentence pronounced by a mercifull Iudge, who will doubtles in a more dreadfull time, not onely vtter the like words againſt vs, but will caſt vs into vtter darkenes, <hi>where ſhal be weeping and gnaſhing of teeth:</hi> except that of his infinite goodnes and great mercie, he call vs home to re<g ref="char:EOLhyphen"/>pentance.</p>
+            <p>Could the people of <hi>Iſrael</hi> tremble at the voice of the Lord when he talked with <hi>Moſes,</hi> inſomuch that they accorded to all his lawes and ordinances which were giuen them, ſo that they might not indure his preſence? and dare we the off-ſcum of the earth, rebell againſt our Creator ſo obſtinately, that neither ſignes, the word, nor wonders, can conuert vs? doe we not remember the benigne bleſſings which he promiſeth, that our land ſhalbe fertile, our fruites ſhall increaſe, our foes ſhall flye before vs &amp;c. if we pleaſe him, ſerue him, and keepe his commandements: neither doe we feare his heauie wrath and horrible curſe which he threatneth to the contrarie, if we tranſgreſſe his precepts and breake his ordinances, ſaying, thy <hi>Wife ſhalbe widdow, thy land barren: thou ſhalt flie, when none followe thee, and feare without cauſe: famine ſhall confound thee, warre ſhall waſte thy countrie, and hunger ſo aſſaile thee, that the after-birth of thy wife ſhall ſerue for thy foode.</hi> O terrible, dreadfull and heauie wrath of God, but more monſtrous, filthie and vglie hearts haue we that imbrace the bleſſings, when we deſerue cur<g ref="char:EOLhyphen"/>ſings: reape good, where we ſowe euill, and yet cannot afforde thankes to the ſender of all thinges, <hi>who giueth liberallie and caſteth no man in the teeth.</hi> Doe we not know that he is of power to turne our <hi>Heauen into braſſe, and our earth into Iron?</hi> or are we ignorant that if it pleaſe him not to bring foraine force vpon vs? yet he can plague vs by our freinds, ſend Graſhoppers to ſpoile our groundes, Frogs to fellow vs whetherſoeuer we flie, Caterpillers to conſume our fruite in the bloſſome, or Raine to rot our Corne and
+<pb facs="tcp:174716:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174716:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174716:13"/> Graſſe when it is readie for the harueſt, or that he can ſend Lice to liue by our fleſh, and Mice in ſuch multi<g ref="char:EOLhyphen"/>tudes, that neither power nor pollicie can keepe them from vs, for thereby he ſhewes his omnipotencie, not in a huge armie of enemies: but in a mightie arme with the weakeſt of his creatures. Hath he not ſent famine to <hi>Sa<g ref="char:EOLhyphen"/>maria,</hi> ſo that a little Doues doung was worth fiue pence, an Aſſes head ſold for foureſcore ſhillings: deſtruction to <hi>Ieruſalem</hi> ſo ſharpe, that the mother was faine to eate her Babe to ſatisfie her hunger.</p>
+            <p>Fier and Brimſtone to <hi>Sodome</hi> and <hi>Gomorrah,</hi> a de<g ref="char:EOLhyphen"/>luge ouer the olde world, with infinite other Citties that he hath iuſtlie plangued for their iniquities: and we thinke to eſcape that haue not onlie practiſed to be perfect in their ſinnes, but dailie ſtudie to deuiſe new offences.</p>
+            <p>The times we ſée haue almoſt changed their natures and our Sommer become euen a Winter, yet nothing can pro<g ref="char:EOLhyphen"/>uoke vs to repent.</p>
+            <p>O ſtife-necked people put on ſackcloth with <hi>Nineuie,</hi> leaue pride, and fall to prayers, let <hi>Saule</hi> become <hi>Paule</hi> ceaſe to oppreſſe, and turne to preach, let euerie man amend one, ſo ſhall we all doe well at the laſt, and ſeeing the ſpirit in the faithfull is willing, but the fleſh weake and blinde in heauenly thinges, let vs beſeech our heauenlie Father in continuall prayers, that by his holie ſpirit he will daylie more and more increaſe and ſtrengthen our weake and féeble faith.</p>
+            <p>And therefore we heartely deſier thee O eternall Father, that thou wilt not vtterlie breake vs, though we bowe not as we ſhould, neither deale with Iuſtice, though we doe not our duties, according to thy will, but keepe vs good Lord in thy wel beloued ſonne, illuminate our mindes with thy holie ſpirit, by which we may be prepared to all good workes in the holineſſe, and neweneſſe of life: that ſo with <hi>Paule</hi> wée may deſire to leaue this wicked world, and to be with Chriſt, and ſo in the comming of the Lord, being found readie with. Oyle in our Lampes, and ador<g ref="char:EOLhyphen"/>ned with our wedding garmentes, we may finde entrance
+<pb facs="tcp:174716:13"/> into the Lords marriage, which thou for thy deare ſonne and his beloued ſpouſe the Church, haſt prepared and ap<g ref="char:EOLhyphen"/>pointed from the beginning of the world. To thee therefore O holy Father, and to thine onlie be<g ref="char:EOLhyphen"/>gotten Sonne Ieſus Chriſt, and to the Holy Spirit our comforter, be all praiſe, honour, and glorie, for euer and euer <hi>Amen.</hi>
+            </p>
+            <trailer>LA<g ref="char:V">Ʋ</g>S DEO.</trailer>
+         </div>
+         <div type="exhortation_to_repentance">
+            <pb facs="tcp:174716:14"/>
+            <head>Hereunto is anexed, THE LAMENTABLE AND FEAREFVLL BVRNING OF THE TOWNE OF DOR<g ref="char:EOLhyphen"/>cheſter, vpon the 6. of Auguſt laſt. 1613.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F this dolorous diſcourſe aforeſaid, of Gods fiery iudgement (written by ma<g ref="char:EOLhyphen"/>ſter <hi>Hilliard</hi>) late hapning in Hamp<g ref="char:EOLhyphen"/>ſhire, haue any whit penetrated the reader with remorſe, I am here pre<g ref="char:EOLhyphen"/>ſumingly bolde (without diſparagement to the Author,) to adde vnto his booke a ſecond ſorrow to our country, a ſodaine calamity late befalne v<g ref="char:EOLhyphen"/>pon the towne of <hi>Dorcheſter</hi> in the Weſt of Eng<g ref="char:EOLhyphen"/>land: the heauy newes whereof, euen ſtrikes trembling hearts of people, that ſo famous a Towne, and the onely ſtore-houſe of thoſe parts for Marchantly commodities, ſhould in leſſe then foure and twentie houres be ruinated by this great commaunding Element, coſuming fier.</p>
+            <p>
+               <hi>Dorcheſter,</hi> (as it is well knowne,) is one of the principall places of traffick for weſterne mar<g ref="char:EOLhyphen"/>chants, by which meanes it grew rich and popu<g ref="char:EOLhyphen"/>lous, beautified with many ſtately buildings, and faire ſtreetes, flouriſhing full of all ſorts of tradeſ<g ref="char:EOLhyphen"/>men
+<pb facs="tcp:174716:14"/> and artificers, plenty with aboundance re<g ref="char:EOLhyphen"/>uelled in her boaſom, maintained with a wiſe and ciuill gouerment, to the well deſeruing commen<g ref="char:EOLhyphen"/>dation of the inhabitants: but now marke how their golden fortunes faded, and their cheerefull ſunne of proſperitie, eclipſed with the black vale of mournfull aduerſitie: for vpon the ſixt of Auguſt laſt, being Friday, this then flouriſhing Towne of <hi>Dorcheſter,</hi> about the mid-day flouriſht in her greateſt ſtate, but before three of the clocke in the afternoone, ſhe was couered with a garment of redde flaming fier, and all their Iolity turned in<g ref="char:EOLhyphen"/>to lamentation.</p>
+            <p>This Inſtrument of Gods wrath, began firſt to take hold in a Tradeſ-mans worke-houſe: for a Tallow Chandler there dwelling, making too great a fier vnder his kettle or lead, tooke holde vpon the melted and boyling tallow, in ſuch vio<g ref="char:EOLhyphen"/>lent manner, that without reſiſtance it fiered the worke-houſe, and immediately one roome after another, till the Chandlers whole dwelling was all on a light burning flame.</p>
+            <p>Then began the cry of fier to be ſpread through the whole Towne: man, woman and childe, ran amazedly vp and downe the ſtreetes, calling for water, water: ſo fearefully, as if deaths trumpet had ſounded a command of preſent deſtruction. Many were the affrights of the inhabitants; a<g ref="char:EOLhyphen"/>mongſt which, next vnto the Chandlers houſe (then all on a fier flaming) was a Ware-houſe of Gun-powder filled into barrells belonging to a marchant of the towne, which to preſerue they much aduentured, and with wet ſheets and other
+<pb facs="tcp:174716:15"/> linnen, ſaued the houſe from burning till they had caried the pouder ſafe into the fieldes, otherwiſe taking fier it had bene ſufficient, with one blaſt to haue blowne vp a whole towne, with all the in<g ref="char:EOLhyphen"/>habitants therein remaining, but God be praiſed, it was preſerued, and not one liuing creature therein periſhed.</p>
+            <p>The fier, as I ſaid before begun betweene the houres of two and three in the afternoone, the winde blowing very ſtrong, &amp; increſed ſo mightily that in very ſhort ſpace, the moſt part of the was, town fiered, which burned ſo extreamely, the wea<g ref="char:EOLhyphen"/>ther being hot and the houſes drie, that helpe of man grew almoſt paſt, but yet as in ſuch extremi<g ref="char:EOLhyphen"/>ties, people will ſhew their endeuours, ſo theſe amazed townſ-men ſtriued to ſuccor one another, but to ſmall purpoſe, for the tyranous fier had taken too great a head, and likewiſe there was too much want of water.</p>
+            <p>The reaſon, the fier at the firſt preuailed aboue the ſtrength of man, was, that it vnfortunately hapned in the time of harueſt, when people were moſt buſied in reaping of their Corne, and the Towne moſt emptyeſt: but when this burning Beacon of ruyne, gaue the harueſt men light into the field, little booted it them to ſtay, but in more then reaſonable haſt, poaſted they homeward not onely for the ſafegard of their goods and houſes, but for the preſeruation of their wiues and chil<g ref="char:EOLhyphen"/>dren, more dearer then all temporall eſtate or worldly aboundance.</p>
+            <p>In like manner, the inhabitants of the neigh<g ref="char:EOLhyphen"/>bouring townes &amp; villages at the fearful ſight red
+<pb facs="tcp:174716:15"/> blazing eliment, ran in multitudes to aſſiſt them, proferring the deare aduenture of their liues to oppreſſe the rigour of the fier if poſiible it might be, but all to late they came, and to ſmall purpoſe, ſhewed they their willing mindes, for almoſt euery ſtreete was filled with flame, euery houſe couered with the robe of diſtruction, euery place borning beyond helpe and recouery, their might they in wofull manner behold marchants Ware<g ref="char:EOLhyphen"/>houſes full of riches commodities, being ſhops of ſilkes and velluets on a flaming fier, garners of breade Corne conſuming, multitudes of Linnen and Wollen clothes burned into aſhes, Gold and Siluer melted, with Braſſe Pewter, and Copper, Tronkes and Cheſtes of Damaskes and fine Linnens with all manner of rich Stuffes made fewell to increaſe this vniuerſe ſole conquerour, which leueld and made waſt of all things it laid hold of, the fiercenes of the fier was ſuch that it euen burnet and ſcortht trees as they grew, and conuerted their greene liueries into blacke burned Garments, not ſo much as Hearbes and Flowers floriſhing in Gardayns but were in a moment withered with the heate of the fier, many liuing creatures as houſe, Suine, pollayne and ſuch like at this wofull time were conſumed into aſhes to the great greife of the beholders, was it not a ſor<g ref="char:EOLhyphen"/>row for a trades-man to ſee all his eſtate burning at one inſtant, which he had laboured for twenty yeares before, was it not a ſorrow for a man to riſe rich in the morning, and to be brought vnto po<g ref="char:EOLhyphen"/>uerty before night and was it not a ſorrow for pa<g ref="char:EOLhyphen"/>rents, to ſee the portion of their children thus con<g ref="char:EOLhyphen"/>ſumed,
+<pb facs="tcp:174716:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174716:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174716:17"/> oh greife, vpon greife: When t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> burning inuader comes, he ſhewes no pitty, he ſpareth nei<g ref="char:EOLhyphen"/>ther rich nor poore: the rich he makes poore, and the poore moſt miſerable. <hi>Dorcheſter</hi> was a fa<g ref="char:EOLhyphen"/>mous Towne, now a heape of aſhes for trauellers that paſſe by to ſigh at: oh <hi>Dorcheſter</hi> wel maiſt thou mourne for thoſe thy great loſſes: for neuer had <hi>Engliſh</hi> Towne the like vnto thee: the valew, by the Iudgement of the inhabitantes, without partiallity, is reckoned to come to two hundred thouſand pounds, beſides wel neere three hundred houſes, all ruynated &amp; burned to the ground: only a few dwelling houſes that ſtand about the Church was ſaued, and withall the Churche by Gods prouidence preſerued for people therein to magnifie his name: All the reſt of the towne was conſumed and conuerted into a heape of aſhes: a loſſe ſo vnrecouerable, that vnleſſe the whole land in pitty ſet to their deuotions, it is like neuer to reobtaine the former eſtate, but continue like ruinated Troy, or decayed Carthage. God in his mercy raiſe the inhabitantes vp againe, and graunt that by the miſchance of this Towne, both vs, they, and all others may repent vs of our ſins. <hi>Amen.</hi>
+            </p>
+            <trailer>FJNJS.</trailer>
+            <pb facs="tcp:174716:17" rendition="simple:additions"/>
+            <pb facs="tcp:174716:18"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:18" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:19" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:20"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:20" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:21"/>
+            <pb facs="tcp:174716:22"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:22"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:23" rendition="simple:additions"/>
+            <pb facs="tcp:174716:24"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:25"/>
+            <pb facs="tcp:174716:27"/>
+            <pb facs="tcp:174716:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:29"/>
+            <pb facs="tcp:174716:29"/>
+            <pb facs="tcp:174716:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174716:31"/>
+            <pb facs="tcp:174716:31"/>
+         </div>
+      </body>
+   </text>
+</TEI>
